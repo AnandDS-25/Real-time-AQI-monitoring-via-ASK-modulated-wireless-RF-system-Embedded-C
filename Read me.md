@@ -44,7 +44,3 @@ This project simulates Air Quality Index (AQI) estimation using an HC-SR04 ultra
 - IoT Prototyping and Wireless Sensing
 - Educational Projects on Wireless Communication and Sensor Integration
 
-## 🔗 License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project with proper attribution.
-
